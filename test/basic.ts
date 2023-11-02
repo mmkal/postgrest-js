@@ -294,7 +294,7 @@ describe('basic insert, update, delete', () => {
           Object {
             "channel_id": 1,
             "data": null,
-            "id": 3,
+            "id": 33,
             "message": "foo",
             "username": "supabot",
           },
@@ -327,7 +327,7 @@ describe('basic insert, update, delete', () => {
           Object {
             "channel_id": 1,
             "data": null,
-            "id": 3,
+            "id": 33,
             "message": "foo",
             "username": "supabot",
           },
@@ -382,6 +382,13 @@ describe('basic insert, update, delete', () => {
             "username": "supabot",
           },
           Object {
+            "channel_id": 1,
+            "data": null,
+            "id": 33,
+            "message": "foo",
+            "username": "supabot",
+          },
+          Object {
             "channel_id": 2,
             "data": null,
             "id": 3,
@@ -411,14 +418,14 @@ describe('basic insert, update, delete', () => {
           Object {
             "channel_id": 1,
             "data": null,
-            "id": 4,
+            "id": 34,
             "message": "foo",
             "username": "supabot",
           },
           Object {
             "channel_id": 1,
             "data": null,
-            "id": 5,
+            "id": 35,
             "message": "foo",
             "username": "supabot",
           },
@@ -449,6 +456,13 @@ describe('basic insert, update, delete', () => {
             "username": "supabot",
           },
           Object {
+            "channel_id": 1,
+            "data": null,
+            "id": 33,
+            "message": "foo",
+            "username": "supabot",
+          },
+          Object {
             "channel_id": 2,
             "data": null,
             "id": 3,
@@ -458,14 +472,14 @@ describe('basic insert, update, delete', () => {
           Object {
             "channel_id": 1,
             "data": null,
-            "id": 4,
+            "id": 34,
             "message": "foo",
             "username": "supabot",
           },
           Object {
             "channel_id": 1,
             "data": null,
-            "id": 5,
+            "id": 35,
             "message": "foo",
             "username": "supabot",
           },
@@ -490,6 +504,13 @@ describe('basic insert, update, delete', () => {
           Object {
             "channel_id": 2,
             "data": null,
+            "id": 33,
+            "message": "foo",
+            "username": "supabot",
+          },
+          Object {
+            "channel_id": 2,
+            "data": null,
             "id": 3,
             "message": "foo",
             "username": "supabot",
@@ -497,14 +518,14 @@ describe('basic insert, update, delete', () => {
           Object {
             "channel_id": 2,
             "data": null,
-            "id": 4,
+            "id": 34,
             "message": "foo",
             "username": "supabot",
           },
           Object {
             "channel_id": 2,
             "data": null,
-            "id": 5,
+            "id": 35,
             "message": "foo",
             "username": "supabot",
           },
@@ -537,6 +558,13 @@ describe('basic insert, update, delete', () => {
           Object {
             "channel_id": 2,
             "data": null,
+            "id": 33,
+            "message": "foo",
+            "username": "supabot",
+          },
+          Object {
+            "channel_id": 2,
+            "data": null,
             "id": 3,
             "message": "foo",
             "username": "supabot",
@@ -544,14 +572,14 @@ describe('basic insert, update, delete', () => {
           Object {
             "channel_id": 2,
             "data": null,
-            "id": 4,
+            "id": 34,
             "message": "foo",
             "username": "supabot",
           },
           Object {
             "channel_id": 2,
             "data": null,
-            "id": 5,
+            "id": 35,
             "message": "foo",
             "username": "supabot",
           },
@@ -572,6 +600,13 @@ describe('basic insert, update, delete', () => {
           Object {
             "channel_id": 2,
             "data": null,
+            "id": 33,
+            "message": "foo",
+            "username": "supabot",
+          },
+          Object {
+            "channel_id": 2,
+            "data": null,
             "id": 3,
             "message": "foo",
             "username": "supabot",
@@ -579,14 +614,14 @@ describe('basic insert, update, delete', () => {
           Object {
             "channel_id": 2,
             "data": null,
-            "id": 4,
+            "id": 34,
             "message": "foo",
             "username": "supabot",
           },
           Object {
             "channel_id": 2,
             "data": null,
-            "id": 5,
+            "id": 35,
             "message": "foo",
             "username": "supabot",
           },
@@ -936,7 +971,7 @@ describe("insert, update, delete with count: 'exact'", () => {
           Object {
             "channel_id": 1,
             "data": null,
-            "id": 6,
+            "id": 36,
             "message": "foo",
             "username": "supabot",
           },
@@ -969,7 +1004,7 @@ describe("insert, update, delete with count: 'exact'", () => {
           Object {
             "channel_id": 1,
             "data": null,
-            "id": 6,
+            "id": 36,
             "message": "foo",
             "username": "supabot",
           },
@@ -1026,7 +1061,7 @@ describe("insert, update, delete with count: 'exact'", () => {
           Object {
             "channel_id": 1,
             "data": null,
-            "id": 6,
+            "id": 36,
             "message": "foo",
             "username": "supabot",
           },
@@ -1063,14 +1098,14 @@ describe("insert, update, delete with count: 'exact'", () => {
           Object {
             "channel_id": 1,
             "data": null,
-            "id": 7,
+            "id": 37,
             "message": "foo",
             "username": "supabot",
           },
           Object {
             "channel_id": 1,
             "data": null,
-            "id": 8,
+            "id": 38,
             "message": "foo",
             "username": "supabot",
           },
@@ -1103,7 +1138,7 @@ describe("insert, update, delete with count: 'exact'", () => {
           Object {
             "channel_id": 1,
             "data": null,
-            "id": 6,
+            "id": 36,
             "message": "foo",
             "username": "supabot",
           },
@@ -1117,14 +1152,14 @@ describe("insert, update, delete with count: 'exact'", () => {
           Object {
             "channel_id": 1,
             "data": null,
-            "id": 7,
+            "id": 37,
             "message": "foo",
             "username": "supabot",
           },
           Object {
             "channel_id": 1,
             "data": null,
-            "id": 8,
+            "id": 38,
             "message": "foo",
             "username": "supabot",
           },
@@ -1153,7 +1188,7 @@ describe("insert, update, delete with count: 'exact'", () => {
           },
           Object {
             "data": null,
-            "id": 4,
+            "id": 24,
             "slug": "test-slug",
           },
         ],
@@ -1181,7 +1216,7 @@ describe("insert, update, delete with count: 'exact'", () => {
           },
           Object {
             "data": null,
-            "id": 6,
+            "id": 26,
             "slug": "test-slug",
           },
         ],
@@ -1205,7 +1240,7 @@ describe("insert, update, delete with count: 'exact'", () => {
           Object {
             "channel_id": 2,
             "data": null,
-            "id": 6,
+            "id": 36,
             "message": "foo",
             "username": "supabot",
           },
@@ -1219,14 +1254,14 @@ describe("insert, update, delete with count: 'exact'", () => {
           Object {
             "channel_id": 2,
             "data": null,
-            "id": 7,
+            "id": 37,
             "message": "foo",
             "username": "supabot",
           },
           Object {
             "channel_id": 2,
             "data": null,
-            "id": 8,
+            "id": 38,
             "message": "foo",
             "username": "supabot",
           },
@@ -1259,7 +1294,7 @@ describe("insert, update, delete with count: 'exact'", () => {
           Object {
             "channel_id": 2,
             "data": null,
-            "id": 6,
+            "id": 36,
             "message": "foo",
             "username": "supabot",
           },
@@ -1273,14 +1308,14 @@ describe("insert, update, delete with count: 'exact'", () => {
           Object {
             "channel_id": 2,
             "data": null,
-            "id": 7,
+            "id": 37,
             "message": "foo",
             "username": "supabot",
           },
           Object {
             "channel_id": 2,
             "data": null,
-            "id": 8,
+            "id": 38,
             "message": "foo",
             "username": "supabot",
           },
@@ -1305,7 +1340,7 @@ describe("insert, update, delete with count: 'exact'", () => {
           Object {
             "channel_id": 2,
             "data": null,
-            "id": 6,
+            "id": 36,
             "message": "foo",
             "username": "supabot",
           },
@@ -1319,14 +1354,14 @@ describe("insert, update, delete with count: 'exact'", () => {
           Object {
             "channel_id": 2,
             "data": null,
-            "id": 7,
+            "id": 37,
             "message": "foo",
             "username": "supabot",
           },
           Object {
             "channel_id": 2,
             "data": null,
-            "id": 8,
+            "id": 38,
             "message": "foo",
             "username": "supabot",
           },
